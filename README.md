@@ -1,2 +1,2 @@
-# git-test-login.
+# git-test-login
 TP initiation git
